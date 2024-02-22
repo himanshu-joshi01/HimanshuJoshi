@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-joshi01&show_icons=true&locale=en&layout=compact" alt="himanshu-joshi01" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/himanshu-joshi01/himanshu-joshi01/output/snake.svg" alt="Snake animation" />
+
 
 ###
